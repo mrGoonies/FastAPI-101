@@ -13,6 +13,8 @@ Este es un proyecto de aprendizaje diseñado para demostrar el uso de [FastAPI](
 
 - **Documentación Automática**: FastAPI genera automáticamente una documentación interactiva (Swagger UI) para la API, lo que facilita su comprensión y uso.
 
+## Estructura de la base de dato
+![diagrama entidad relación del proyecto](./ER-Diagram.svg)
 ## Instrucciones de Uso
 
 1. Clona este repositorio a tu máquina local:
